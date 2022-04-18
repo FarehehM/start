@@ -1,0 +1,88 @@
+@font-face {
+    font-family: Vazir;
+    src: url('../fonts/Vazir.eot');
+    src: url('../fonts/Vazir.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Vazir.woff2') format('woff2'),
+    url('../fonts/Vazir.woff') format('woff'),
+    url(' ../fonts/Vazir.ttf') format('truetype');
+    font-weight: normal;
+}
+
+body {
+    font-family: Vazir !important;
+    direction: ltr;
+
+}
+
+.btn1 {
+    background-color: #43259e;
+    color: #fff3f1;
+    height: 50px;
+}
+
+.btn2 {
+    border-bottom: 3px solid #43259e;
+    color: #43259e;
+}
+
+.btn3 {
+    background-color: white;
+    color: #43259e;
+}
+
+#sec2 {
+    background-color: white;
+}
+
+.part1 {
+    border-radius: 10px;
+    background-color: #43259e;
+}
+
+.image {
+    width: 100%;
+}
+
+.btn4 {
+    text-align: center;
+    width: 95%;
+    margin-left: 1%;
+}
+
+#ss {
+}
+
+.form-group {
+    position: relative;
+    margin-bottom: 1.5rem;
+    height: 56px;
+}
+
+.ShowPwd {
+    position: absolute;
+    right: 25px;
+    top: 20px;
+    cursor: pointer;
+}r {color: cornflowerblue;}
+
+
+@media screen and (max-width: 320px) {
+}
+
+@media screen and (min-width: 321px) and (max-width: 480px) {
+
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+
+}
+
+@media screen and (min-width: 769px) and (max-width: 929px) {
+}
+
+@media screen and (min-width: 923px) and (max-width: 1200px) {
+}
+
+@media screen and (min-width: 1201px){
+
+}
